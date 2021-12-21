@@ -186,6 +186,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Besprechungsraum"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
                 }],
          "type":"tilelayer",
          "visible":true,
